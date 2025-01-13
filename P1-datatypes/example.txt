@@ -1,0 +1,5 @@
+Hello, file!
+This is an example text file.
+It contains multiple lines of text.
+Feel free to add more content here.
+Python makes it easy to work with files!
